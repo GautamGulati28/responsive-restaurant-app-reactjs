@@ -1,7 +1,6 @@
 # Restaurant Landing Page
 ### [Live Site](https://responsive-restaurant-app-reactjs.vercel.app/)
 
-![Restaurant Landing Page]()
 
 ---
 
