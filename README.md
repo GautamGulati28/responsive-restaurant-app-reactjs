@@ -1,6 +1,6 @@
 # Restaurant Landing Page
 ### [Live Site](https://responsive-restaurant-app-reactjs.vercel.app/)
-Implementing a Figma Design from- ### [Here](https://ui8.net/iqonicdesign/products/gericht-restaurant-website-ui-in-figma)
+Implementing a Figma Design from-https://ui8.net/iqonicdesign/products/gericht-restaurant-website-ui-in-figma
 
 
 ---
